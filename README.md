@@ -15,4 +15,4 @@ Roberto Bigazzi, Federico Landi, Silvia Cascianelli, Marcella Cornia, Lorenzo Ba
 }
 ```
 
-### Dataset will be released soon!
+The dataset can be downloaded at this [link](https://ailb-web.ing.unimore.it/publicfiles/drive/Datasets/AG3D/data.zip)
